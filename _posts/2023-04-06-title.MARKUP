@@ -12,3 +12,9 @@ tags: "시작"
 
 ... which is shown in the screenshot below:
 ![My helpful screenshot](/assets/img/teddy_reading glasses.jpg)
+
+{% highlight ruby mark_lines="1 2" %}
+def foo
+  puts 'foo'
+end
+{% endhighlight %}
