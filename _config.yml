@@ -21,10 +21,10 @@ author: mjlee
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  MEDIA:
+    - YOUTUBE: "https://www.youtube.com/channel/UCwR-Nsx4t80YRt_W9ivmrtA"
+    - INSTAGRAM : "https://www.instagram.com/_mj.lee/"
+  Author's home: "https://somady2018.github.io/"
 
 ################
 # --- Logo --- #
@@ -32,7 +32,8 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.png"
+avatar: "/assets/img/teddy_reading glasses.jpg"
+title-img: /assets/img/teddy_reading glasses.jpg"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
@@ -51,18 +52,15 @@ round-avatar: true
 social-network-links:
   email: "somadyyt@gmail.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
+  github: somady2018
+  youtube: /channel/UCwR-Nsx4t80YRt_W9ivmrtA
+  instagram: _mj.lee
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-#  instagram: deanat78
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
@@ -78,7 +76,7 @@ social-network-links:
 #  hackerrank: yourname
 
 # If you want your website to generate an RSS feed, provide a description
-# The URL for the feed will be https://<your_website>/feed.xml
+# The URL for the feed will be https://somady2018.github.io//feed.xml
 rss-description: This website is a virtual proof that I'm awesome
 
 ###########################
@@ -87,9 +85,9 @@ rss-description: This website is a virtual proof that I'm awesome
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: true
-  facebook: true
-  linkedin: true
+  twitter: false
+  facebook: false
+  linkedin: false
   vk: false
 
 # How to display the link to your website in the footer
@@ -247,7 +245,7 @@ date_format: "%B %-d, %Y"
 #################################################################################
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Toronto"
+timezone: "KOREA"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
