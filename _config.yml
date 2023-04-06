@@ -21,11 +21,12 @@ author: mjlee
 
 navbar-links:
   About Me: "aboutme"
-  Gallery: "gallery"
+  Gallery: 
+    - Gallery: "gallery"
   MEDIA:
     - YOUTUBE: "https://www.youtube.com/channel/UCwR-Nsx4t80YRt_W9ivmrtA"
     - INSTA : "https://www.instagram.com/_mj.lee/"
-  Author's home: "https://somady2018.github.io/"
+  Blog: "blog"
 
 ################
 # --- Logo --- #
@@ -71,7 +72,7 @@ social-network-links:
 #  calendly: yourname
 #  mastodon: instance.url/@username
 #  ORCID: your ORCID ID
-#  google-scholar: your google scholar
+#  scholar: your google scholar
 #  discord: invite/invite_code or users/userid 
 #  kaggle: yourname
 #  hackerrank: yourname
@@ -121,6 +122,9 @@ navbar-var-length: false
 ######################################
 # --- Colours / background image --- #
 ######################################
+
+#font 내가직접넣음
+google_fonts: "Nanum_Gothic:400,700"
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
