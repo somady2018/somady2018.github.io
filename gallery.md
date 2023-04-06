@@ -64,8 +64,8 @@ title:  "갤러리"
             <!---------------------------------------------->
             <div data-aos="flip-up" class="col-sm-6 col-md-4">
               <div class="thumbnail">
-                <a class="lightbox" href="1.png">
-                  <img src="1.jpg">
+                <a class="lightbox" href="/assets/gallery/1.png">
+                  <img src="/assets/gallery/1.jpg">
                 </a>
               </div>
             </div>
@@ -74,8 +74,8 @@ title:  "갤러리"
 
             <div data-aos="flip-up" data-aos-delay="20" class="col-sm-6 col-md-4">
               <div class="thumbnail">
-                <a class="lightbox" href="2.png">
-                  <img src="2.jpg">
+                <a class="lightbox" href="/assets/gallery/2.png">
+                  <img src="/assets/gallery/2.jpg">
                 </a>
               </div>
             </div>
@@ -83,8 +83,8 @@ title:  "갤러리"
 
             <div data-aos="flip-up" data-aos-delay="40" class="col-sm-6 col-md-4">
               <div class="thumbnail">
-                <a class="lightbox" href="3.png">
-                  <img src="3.jpg">
+                <a class="lightbox" href="/assets/gallery/3.png">
+                  <img src="/assets/gallery/3.jpg">
                 </a>
 
               </div>
@@ -93,8 +93,8 @@ title:  "갤러리"
 
             <div data-aos="flip-up" data-aos-delay="60" class="col-sm-6 col-md-4">
               <div class="thumbnail">
-                <a class="lightbox" href="4.png">
-                  <img src="4.jpg">
+                <a class="lightbox" href="/assets/gallery/4.png">
+                  <img src="/assets/gallery/4.jpg">
                 </a>
               </div>
             </div>
@@ -102,8 +102,8 @@ title:  "갤러리"
 
             <div data-aos="flip-up" data-aos-delay="80" class="col-sm-6 col-md-4">
               <div class="thumbnail">
-                <a class="lightbox" href="5.png">
-                  <img src="5.jpg">
+                <a class="lightbox" href="/assets/gallery/5.png">
+                  <img src="/assets/gallery/5.jpg">
                 </a>
               </div>
             </div>
@@ -111,8 +111,8 @@ title:  "갤러리"
 
             <div data-aos="flip-up" data-aos-delay="100" class="col-sm-6 col-md-4">
               <div class="thumbnail">
-                <a class="lightbox" href="6.png">
-                  <img src="6.jpg">
+                <a class="lightbox" href="/assets/gallery/6.png">
+                  <img src="/assets/gallery/6.jpg">
                 </a>
               </div>
             </div>
