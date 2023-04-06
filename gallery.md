@@ -1,8 +1,3 @@
----
-layout: post
-title:  "갤러리"
----
-
 <!DOCTYPE html>
 <html lang="en">
 
