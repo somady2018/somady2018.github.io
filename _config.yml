@@ -20,6 +20,7 @@ author: mjlee
 ###############################################
 
 navbar-links:
+  Home: "https://somady2018.github.io/"
   About Me: "aboutme"
   Gallery: 
     - Gallery: "gallery"
@@ -124,6 +125,7 @@ navbar-var-length: false
 ######################################
 
 #font 내가직접넣음
+ @import url('https://fonts.googleapis.com/css?family=Nanum+Gothic');
 google_fonts: "Nanum_Gothic:400,700"
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
@@ -254,7 +256,7 @@ timezone: "America/Toronto"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
-paginate: 5
+paginate: 10
 
 kramdown:
   input: GFM
