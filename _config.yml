@@ -30,7 +30,6 @@ navbar-links:
   MEDIA:
     - YOUTUBE: "https://www.youtube.com/channel/UCwR-Nsx4t80YRt_W9ivmrtA"
     - INSTA : "https://www.instagram.com/_mj.lee/"
-  Blog: "blog"
 
 ################
 # --- Logo --- #
@@ -126,8 +125,6 @@ navbar-var-length: true
 ######################################
 # --- Colours / background image --- #
 ######################################
-
-
 
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
