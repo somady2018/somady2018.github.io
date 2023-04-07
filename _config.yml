@@ -20,11 +20,10 @@ author: mjlee
 ###############################################
 
 navbar-links:
-  Home: "https://somady2018.github.io/"
+  Main: "https://somady2018.github.io/"
   About Me: "aboutme"
   Gallery: 
     - Gallery: "gallery"
-    - Failytale: "failytale"
   MEDIA:
     - YOUTUBE: "https://www.youtube.com/channel/UCwR-Nsx4t80YRt_W9ivmrtA"
     - INSTA : "https://www.instagram.com/_mj.lee/"
