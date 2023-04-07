@@ -9,6 +9,9 @@
 # --- Required options --- #
 ############################
 
+#테마
+theme: jekyll-theme-so-simple
+
 # Name of website
 title: SOMA
 
