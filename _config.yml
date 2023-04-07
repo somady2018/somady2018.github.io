@@ -5,12 +5,13 @@
 ### the initial set up you won't need to come back to this file often.
 ###########################################################
 
+
+paginate: 10 # set the number of posts to display per page
+paginate_path: "/blog/page:num/" # set the URL format for paginated pages
+
 ############################
 # --- Required options --- #
 ############################
-
-#테마
-remote_theme: "mmistakes/so-simple-theme@3.2.0"
 
 # Name of website
 title: SOMA
@@ -29,7 +30,7 @@ navbar-links:
   MEDIA:
     - YOUTUBE: "https://www.youtube.com/channel/UCwR-Nsx4t80YRt_W9ivmrtA"
     - INSTA : "https://www.instagram.com/_mj.lee/"
-  Blog: "/blog/index.html"
+  Blog: "blog"
 
 ################
 # --- Logo --- #
@@ -126,13 +127,7 @@ navbar-var-length: true
 # --- Colours / background image --- #
 ######################################
 
-#font 내가직접넣음
- @import url('https://fonts.googleapis.com/css?family=Nanum+Gothic');
-google_fonts: "Nanum_Gothic:400,700"
 
-#블로그 페이지만 불러오게 하는거
-paginate: 10 # set the number of posts to display per page
-paginate_path: "/blog/page:num/" # set the URL format for paginated pages
 
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
