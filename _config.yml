@@ -56,7 +56,7 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "somadyyt@gmail.com"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
+  rss: false  # remove this line if you don't want to show an RSS link at the bottom
   github: somady2018
   youtube: /channel/UCwR-Nsx4t80YRt_W9ivmrtA
   instagram: _mj.lee
@@ -100,7 +100,7 @@ share-links-active:
 url-pretty: "somady2018.github.io"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
-excerpt_length: 100
+excerpt_length: 60
 
 # Whether or not to show an excerpt for every blog post in the feed page
 feed_show_excerpt: true
