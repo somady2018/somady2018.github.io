@@ -27,6 +27,7 @@ navbar-links:
   About Me: "aboutme"
   Gallery: 
     - Gallery: "gallery"
+    - Gallery_2 : "slide gallery"
   MEDIA:
     - YOUTUBE: "https://www.youtube.com/channel/UCwR-Nsx4t80YRt_W9ivmrtA"
     - INSTA : "https://www.instagram.com/_mj.lee/"
