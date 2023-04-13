@@ -19,9 +19,9 @@ tag: Codepen, 슬라이드갤러리, SwiperSlide, ChatGPT
 우선 현재까지 아래의 두가지 버젼으로 웹 상에 구현해보았다. 히히 <br> 
 
 [갤러리 1번] 
-(/post_img/230414_gallery_capture_1.jpg)
+:/post_img/230414_gallery_capture_1.JPG
 [갤러리 2번]
-(/post_img/230414_gallery_gif.jpg)
+:/post_img/230414_gallery_gif.jpg
 
 
 코딩의 기본도 제대로 공부해보지 않은 나로서 웹개발.....(?) 이 쉬운일은 아니었지만
@@ -54,10 +54,10 @@ Visual studio code 내에 있는 "AI Code Helper" 추가기능에 chatGPT 에서
 
 
 [내가만든 갤러리 html 파일에 주석 달아준 화면]
-(\post_img\230414_helper_capture_3.JPG)
+: \post_img\230414_helper_capture_3.JPG
 
 [내가만든 갤러리 css 파일을 리뷰해준 화면]
-(\post_img\230414_helper_capture_4.JPG)
+: \post_img\230414_helper_capture_4.JPG
 
 [관련 단축키]
 Ctrl+Alt+SHift+R : 리팩토링 (코드블럭 후)
