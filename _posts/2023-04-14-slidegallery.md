@@ -18,9 +18,9 @@ tag: Codepen, 슬라이드갤러리, SwiperSlide, ChatGPT
 한편으로는 이 공간을 도영이를 위한 갤러리로 꾸며야겠다는 욕심이 있어서 이미지 갤러리를 만들려고 하는데   
 우선 현재까지 아래의 두가지 버젼으로 웹 상에 구현해보았다. 히히 <br> 
 
-[갤러리 1번] 
+![갤러리 1번] 
 :/post_img/230414_gallery_capture_1.JPG
-[갤러리 2번]
+![갤러리 2번]
 :/post_img/230414_gallery_gif.jpg
 
 
@@ -53,10 +53,10 @@ Visual studio code 내에 있는 "AI Code Helper" 추가기능에 chatGPT 에서
 물론 각 Token발생량에 따라서 유료결제가 필요할 테지만 좋은 선생님 모시는데 그 정도 지불 할 의지는 충분하다규..!!
 
 
-[내가만든 갤러리 html 파일에 주석 달아준 화면]
+![내가만든 갤러리 html 파일에 주석 달아준 화면]
 : \post_img\230414_helper_capture_3.JPG
 
-[내가만든 갤러리 css 파일을 리뷰해준 화면]
+![내가만든 갤러리 css 파일을 리뷰해준 화면]
 : \post_img\230414_helper_capture_4.JPG
 
 [관련 단축키]
