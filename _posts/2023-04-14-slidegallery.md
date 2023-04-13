@@ -18,14 +18,14 @@ tag: Codepen, 슬라이드갤러리, SwiperSlide, ChatGPT
 한편으로는 이 공간을 도영이를 위한 갤러리로 꾸며야겠다는 욕심이 있어서 이미지 갤러리를 만들려고 하는데   
 우선 현재까지 아래의 두가지 버젼으로 웹 상에 구현해보았다. 히히 <br> 
 
-![갤러리 1번](/post_img/230414_gallery_capture_1.JPG)
-![갤러리 2번](/post_img/230414_gallery_gif.jpg)
+![갤러리 1번](somady2018.github.io\_posts\post_img\230414_gallery_capture_1.JPG)
+![갤러리 2번](somady2018.github.io\_posts\post_img\230414_gallery_gif.jpg)
 
 
 코딩의 기본도 제대로 공부해보지 않은 나로서 웹개발.....(?) 이 쉬운일은 아니었지만
 너무나 좋은 선생님들이 계셔서 모셔보았다. 
 
-[1. 코드팬]  (https://codepen.io/trending) 
+[1. 코드팬](https://codepen.io/trending)
 
 html, css, js 파일 각각의 코드를 작성하여 구현되는 웹페이지를 한 눈에 볼 수있고, 
 다른 사람들이 대부분 오픈소스로 본인들의 코드를 공개하고 있기 때문에
@@ -51,9 +51,9 @@ Visual studio code 내에 있는 "AI Code Helper" 추가기능에 chatGPT 에서
 물론 각 Token발생량에 따라서 유료결제가 필요할 테지만 좋은 선생님 모시는데 그 정도 지불 할 의지는 충분하다규..!!
 
 
-![html 파일에 주석 달아준 화면](\post_img\230414_helper_capture_3.JPG)
+![html 파일에 주석 달아준 화면](/post_img/230414_helper_capture_3.JPG)
 
-![css 파일을 리뷰해준 화면](\post_img\230414_helper_capture_4.JPG)
+![css 파일을 리뷰해준 화면](/post_img/230414_helper_capture_4.JPG)
 
 [관련 단축키]
 Ctrl+Alt+SHift+R : 리팩토링 (코드블럭 후)
