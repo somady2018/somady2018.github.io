@@ -19,8 +19,7 @@ tag: Codepen, 슬라이드갤러리, SwiperSlide, ChatGPT
 우선 현재까지 아래의 두가지 버젼으로 웹 상에 구현해보았다. 히히 <br> 
 
 ![갤러리 1번](./post_img/230414_gallery_capture_1.JPG)
-![갤러리 2번]
-230414_galley_gif.gif
+[갤러리 2번] [230414_galley_gif.gif](https://github.com/somady2018/somady2018.github.io/blob/master/_posts/post_img/230414_galley_gif.gif)
 
 코딩의 기본도 제대로 공부해보지 않은 나로서 웹개발.....(?) 이 쉬운일은 아니었지만
 너무나 좋은 선생님들이 계셔서 모셔보았다. 
