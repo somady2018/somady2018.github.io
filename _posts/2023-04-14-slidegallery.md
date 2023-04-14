@@ -18,9 +18,6 @@ tag: Codepen, 슬라이드갤러리, SwiperSlide, ChatGPT
 한편으로는 이 공간을 도영이를 위한 갤러리로 꾸며야겠다는 욕심이 있어서 이미지 갤러리를 만들려고 하는데   
 우선 현재까지 아래의 두가지 버젼으로 웹 상에 구현해보았다. 히히 <br> 
 
-![갤러리 1번](./post_img/230414_gallery_capture_1.JPG)
-[갤러리 2번](https://github.com/somady2018/somady2018.github.io/blob/master/_posts/post_img/230414_galley_gif.gif)
-
 코딩의 기본도 제대로 공부해보지 않은 나로서 웹개발.....(?) 이 쉬운일은 아니었지만
 너무나 좋은 선생님들이 계셔서 소개해본다. 
 
@@ -32,7 +29,7 @@ html, css, js 파일 각각의 코드를 작성하여 구현되는 웹페이지�
 이것을 Folk 하여 내 코드팬으로 불러와 맘에 맞게 수정할 수도 있어서 정말 유용하다. 
 
 
-[2. ChatGPT] 
+[2. ChatGPT](https://chat.openai.com/)
 
 최근에 모두들의 화제인 ChatGPT 
 나 역시 관련 책도 사고 유튜브도 찾아보며 활용해보려고 노력 중인데 사실상 딱히 활용처가 없다고 느끼던 부분이었는데 이번 기회에 제대로 활용했다.  
