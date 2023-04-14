@@ -1,3 +1,4 @@
+<head>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css">
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/6.8.4/swiper-bundle.min.css" />
@@ -58,3 +59,5 @@
 </div>
 <link rel="stylesheet" href="slide gallery.css" />
 <script src="slide gallery.js"></script>
+  </head>
+  
