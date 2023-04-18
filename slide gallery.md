@@ -69,5 +69,5 @@
     </div>
   </div>
 </div>
-<link rel="stylesheet" href="assets/css/slide gallery.css" />
-<script src="assets/js/slide gallery.js"></script>
+<link rel="stylesheet" href="/assets/css/slide gallery.css" />
+<script src="/assets/js/slide gallery.js"></script>
