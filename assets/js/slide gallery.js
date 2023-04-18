@@ -11,7 +11,7 @@ function MySliderBox1__init() {
         let img = "";
 
         if ( index == 0 ) {
-          img = '<img src="gallery/1.jpg">';
+          img = '<img src="assets/gallery/1.jpg">';
         }
         else if ( index == 1 ) {
           img = '<img src="gallery/2.jpg">';
