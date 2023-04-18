@@ -58,7 +58,7 @@
             <!---------------------------------------------->
             <div data-aos="flip-up" class="col-sm-6 col-md-4">
               <div class="thumbnail">
-                <a class="lightbox" href="/assets/gallery/1.png">
+                <a class="lightbox" href="/assets/gallery/1.jpg">
                   <img src="/assets/gallery/1.jpg">
                 </a>
               </div>
@@ -68,7 +68,7 @@
 
             <div data-aos="flip-up" data-aos-delay="20" class="col-sm-6 col-md-4">
               <div class="thumbnail">
-                <a class="lightbox" href="/assets/gallery/2.png">
+                <a class="lightbox" href="/assets/gallery/2.jpg">
                   <img src="/assets/gallery/2.jpg">
                 </a>
               </div>
@@ -77,7 +77,7 @@
 
             <div data-aos="flip-up" data-aos-delay="40" class="col-sm-6 col-md-4">
               <div class="thumbnail">
-                <a class="lightbox" href="/assets/gallery/3.png">
+                <a class="lightbox" href="/assets/gallery/3.jpg">
                   <img src="/assets/gallery/3.jpg">
                 </a>
 
@@ -87,7 +87,7 @@
 
             <div data-aos="flip-up" data-aos-delay="60" class="col-sm-6 col-md-4">
               <div class="thumbnail">
-                <a class="lightbox" href="/assets/gallery/4.png">
+                <a class="lightbox" href="/assets/gallery/4.jpg">
                   <img src="/assets/gallery/4.jpg">
                 </a>
               </div>
@@ -96,7 +96,7 @@
 
             <div data-aos="flip-up" data-aos-delay="80" class="col-sm-6 col-md-4">
               <div class="thumbnail">
-                <a class="lightbox" href="/assets/gallery/5.png">
+                <a class="lightbox" href="/assets/gallery/5.jpg">
                   <img src="/assets/gallery/5.jpg">
                 </a>
               </div>
@@ -105,7 +105,7 @@
 
             <div data-aos="flip-up" data-aos-delay="100" class="col-sm-6 col-md-4">
               <div class="thumbnail">
-                <a class="lightbox" href="/assets/gallery/6.png">
+                <a class="lightbox" href="/assets/gallery/6.jpg">
                   <img src="/assets/gallery/6.jpg">
                 </a>
               </div>
