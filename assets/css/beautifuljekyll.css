@@ -12,7 +12,7 @@ html {
 
 body {
   font-family: 'Lora', 'Times New Roman', serif;
-  font-size: 0.09rem;
+  font-size: 1.0rem;
   color: {{ site.text-col | default: "#404040" }};
   position: relative;
   background-color: {{ site.page-col | default: "#FFFFFF" }};
@@ -490,7 +490,7 @@ footer .footer-custom-content {
   /* 포스트 제목에서 메타 정보 스타일 */
   color: #808080;
   /* 회색으로 글자 색상 지정 */
-  font-size: 0.9rem;
+  font-size: 1.0rem;
   /* 글자 크기는 0.9rem */
   font-style: italic;
   /* 이탤릭체로 글자 스타일 지정 */
