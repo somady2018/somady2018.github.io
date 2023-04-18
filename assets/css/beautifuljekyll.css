@@ -12,7 +12,7 @@ html {
 
 body {
   font-family: 'Lora', 'Times New Roman', serif;
-  font-size: 1.125rem;
+  font-size: 0.09rem;
   color: {{ site.text-col | default: "#404040" }};
   position: relative;
   background-color: {{ site.page-col | default: "#FFFFFF" }};
@@ -465,13 +465,13 @@ footer .footer-custom-content {
 .post-preview a {
   text-decoration: none;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  color: {{ site.text-col | default: "#404040" }};
+  color: var(--text-col, #404040);
 }
 
 .post-preview a:focus,
 .post-preview a:hover {
   text-decoration: none;
-  color: {{ site.hover-col | default: "#0085A1" }};
+  color: var(--hover-col, #0085A1);
 }
 
 .post-preview .post-title {
@@ -483,13 +483,26 @@ footer .footer-custom-content {
   font-weight: 300;
   margin-bottom: 0.625rem;
 }
+/* 포스트 미리보기와 포스트 제목에서 메타 정보 스타일 */
 .post-preview .post-meta,
+/* 포스트 미리보기에서 메타 정보 스타일 */
 .post-heading .post-meta {
+  /* 포스트 제목에서 메타 정보 스타일 */
   color: #808080;
-  font-size: 1.125rem;
+  /* 회색으로 글자 색상 지정 */
+  font-size: 0.9rem;
+  /* 글자 크기는 0.9rem */
   font-style: italic;
+  /* 이탤릭체로 글자 스타일 지정 */
   margin: 0 0 0.625rem;
-  font-family: 'Lora', 'Times New Roman', serif;
+  /* 위, 오른쪽, 아래 여백은 0, 왼쪽 여백은 0.625rem */
+/* 'Alkatra' 글꼴을 사용합니다. */
+  font-family: 'Alkatra', cursive;
+  /* 'Roboto' 글꼴을 사용합니다. */
+  font-family: 'Roboto', sans-serif;
+  /* 'Ubuntu' 글꼴을 사용합니다. */
+  font-family: 'Ubuntu', sans-serif;
+  
 }
 .post-heading .post-meta {
   display: inline-block;
