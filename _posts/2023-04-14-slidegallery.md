@@ -47,9 +47,11 @@ Visual studio code 내에 있는 "AI Code Helper" 추가기능에 chatGPT 에서
 물론 각 Token발생량에 따라서 유료결제가 필요할 테지만 좋은 선생님 모시는데 그 정도 지불 할 의지는 충분하다규..!!
 
 
-![html 파일에 주석 달아준 화면](\assets\gallery\230414_helper_capture_1.JPG)
+참고사진 -  html 파일 코드리뷰 캡쳐화면
+![html 파일 캡쳐](\assets\gallery\230414_helper_capture_1.JPG)
 
-![css 파일을 리뷰해준 화면](\assets\gallery\230414_helper_capture_3.JPG)
+참고사진 -  css 파일 주석설명 캡쳐화면
+![css 파일 캡쳐](\assets\gallery\230414_helper_capture_3.JPG)
 
 [관련 단축키]
 Ctrl+Alt+SHift+R : 리팩토링 (코드블럭 후)  
