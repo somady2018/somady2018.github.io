@@ -1,3 +1,24 @@
+<!-- |이 코드는 Swiper 라이브러리를 사용하여 이미지 갤러리를 만드는 코드입니다.
+|
+|좋은 점:
+|- Swiper 라이브러리를 사용하여 이미지 갤러리를 쉽게 구현할 수 있습니다.
+|- 폰트어썸 라이브러리를 사용하여 화살표 아이콘을 쉽게 추가할 수 있습니다.
+|- 이미지와 상품명이 함께 표시되어 사용자가 상품을 쉽게 확인할 수 있습니다.
+|
+|나쁜 점:
+|- 이미지와 상품명의 크기가 일정하지 않아 레이아웃이 조금 어색합니다.
+|- 이미지와 상품명이 모두 슬라이드되어 보기에 불편할 수 있습니다.
+|- 이미지와 상품명이 모두 슬라이드되어 보기에 불편할 수 있습니다.
+| -->
+<!-- 폰트어썸 불러오기 -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css">
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/6.8.4/swiper-bundle.min.css" />
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/6.8.4/swiper-bundle.min.js"></script>
+
+
+
+
 <div class="section-1 con-min-width">
   <div class="con">
     <div class="my-slider-box-1">
@@ -41,12 +62,12 @@
       <div class="swiper-pagination"></div>
 
       <div class="my-slider-box-1__nav">
-        
+        <!-- Add Arrows -->
         <div class="my-slider-box-1__btn-left"><i class="fas fa-caret-left"></i></div>
         <div class="my-slider-box-1__btn-right"><i class="fas fa-caret-right"></i></div>
       </div>
     </div>
   </div>
 </div>
-
-
+<link rel="stylesheet" href="css/slide gallery.css" />
+<script src="js/slide gallery.js"></script>
