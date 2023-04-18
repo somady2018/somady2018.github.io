@@ -49,7 +49,7 @@ Visual studio code 내에 있는 "AI Code Helper" 추가기능에 chatGPT 에서
 
 ![html 파일에 주석 달아준 화면](\assets\gallery\230414_helper_capture_1.JPG)
 
-![css 파일을 리뷰해준 화면](somady2018.github.io/assets/gallery/230414_helper_capture_3.JPG)
+![css 파일을 리뷰해준 화면](\assets\gallery\230414_helper_capture_3.JPG)
 
 [관련 단축키]
 Ctrl+Alt+SHift+R : 리팩토링 (코드블럭 후)  
