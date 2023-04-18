@@ -21,7 +21,7 @@ tag: [Codepen, 슬라이드갤러리, SwiperSlide, ChatGPT]
 코딩의 기본도 제대로 공부해보지 않은 나로서 웹개발.....(?) 이 쉬운일은 아니었지만
 너무나 좋은 선생님들이 계셔서 소개해본다. 
 
-#[1. 코드팬](https://codepen.io/trending)
+[1. 코드팬](https://codepen.io/trending)
 
 html, css, js 파일 각각의 코드를 작성하여 구현되는 웹페이지를 한 눈에 볼 수있고, 
 다른 사람들이 대부분 오픈소스로 본인들의 코드를 공개하고 있기 때문에
@@ -29,7 +29,7 @@ html, css, js 파일 각각의 코드를 작성하여 구현되는 웹페이지�
 이것을 Folk 하여 내 코드팬으로 불러와 맘에 맞게 수정할 수도 있어서 정말 유용하다. 
 
 
-#[2. ChatGPT](https://chat.openai.com/)
+[2. ChatGPT](https://chat.openai.com/)
 
 최근에 모두들의 화제인 ChatGPT 
 나 역시 관련 책도 사고 유튜브도 찾아보며 활용해보려고 노력 중인데 사실상 딱히 활용처가 없다고 느끼던 부분이었는데 이번 기회에 제대로 활용했다.  
@@ -40,7 +40,7 @@ html, css, js 파일 각각의 코드를 작성하여 구현되는 웹페이지�
 내가 챗GPT의 프롬프트를 제대로 써본 경험도 부족하다보니 내 맘에 드는 답변을 받아내는 것이 사실은 쉽지 않았다. 
 그러던 중 발견한 기능이 있으니 바로 !!  
 
-#[3. AI Code Helper](https://aicodehelper.dev/)  
+[3. AI Code Helper](https://aicodehelper.dev/)  
 Visual studio code 내에 있는 "AI Code Helper" 추가기능에 chatGPT 에서 발급된 API만 넣으면 ChatGPT 를 내 코드 속으로 직접 불러올 수 있다는 것!  
 코드에 대해 설명하는 주석 달아줘, 코드 리뷰해줘, 리팩토링해줘 이런 게 다 가능하다.    
 아직 제대로 써보진 못했지만 실제 채팅방에서 말하듯 원하는 프롬프트를 작성하면 바로 작성도 해준다고 하다. 
@@ -51,7 +51,7 @@ Visual studio code 내에 있는 "AI Code Helper" 추가기능에 chatGPT 에서
 ![html 파일 캡쳐](\assets\gallery\230414_helper_capture_1.JPG)
 
 참고사진 -  css 파일 주석설명 캡쳐화면
-![css 파일 캡쳐](\assets\gallery\230414_helper_capture_3.JPG)
+![css 파일 캡쳐](\assets\gallery\230414_helper_capture_2.JPG)
 
 [관련 단축키]<br>
 Ctrl+Alt+SHift+R : 리팩토링 (코드블럭 후)  
@@ -59,6 +59,12 @@ Ctrl+Alt+Shift+Z : 주석설명 (코드블럭 후)
 Ctrl+Alt+Shift+C : 코드리뷰 (코드블럭 후)  
 Ctrl+Alt+Shift+G : 코드생성 (구현하고싶은것 프롬프트 작성한 후)  
 
-  
-이제 갤러리를 만들었으니, 슬슬 활용을 해보아야겠다.  
+참고사진 - 실제 구현한 갤러리 1번형태
+![갤러리1](\assets\gallery\230414_screenshot_3.JPG)  
+
+참고사진 - 실제 구현한 갤러리 2번형태
+![갤러리2](\assets\gallery\230414_screenshot_4.JPG) <br>
+
+
+그럼 이제 갤러리를 만들었으니, 슬슬 활용을 해보아야겠다.  
 
