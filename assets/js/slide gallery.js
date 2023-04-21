@@ -11,28 +11,28 @@ function MySliderBox1__init() {
         let img = "";
 
         if ( index == 0 ) {
-          img = '<img src="gallery/1.jpg">';
+          img = '<img src="/assets/gallery/1.png">';
         }
         else if ( index == 1 ) {
-          img = '<img src="gallery/2.jpg">';
+          img = '<img src="/assets/gallery/2.png">';
         }
         else if ( index == 2 ) {
-          img = '<img src="gallery/3.jpg">';
+          img = '<img src="/assets/gallery/3.png">';
         }
         else if ( index == 3 ) {
-          img = '<img src="gallery/4.jpg">';
+          img = '<img src="/assets/gallery/4.png">';
         }
         else if ( index == 4 ) {
-          img = '<img src="gallery/5.jpg">';
+          img = '<img src="/assets/gallery/5.png">';
         }
         else if ( index == 5 ) {
-          img = '<img src="gallery/6.jpg">';
+          img = '<img src="/assets/gallery/6.png">';
         }
         else if ( index == 6 ) {
-          img = '<img src="gallery/7.jpg">';
+          img = '<img src="/assets/gallery/7.png">';
         }
         else if ( index == 7 ) {
-          img = '<img src="gallery/8.jpg">';
+          img = '<img src="/assets/gallery/8.png">';
         }
 
         const bullet = '<span class="' + className + '">' + img + '</span>';

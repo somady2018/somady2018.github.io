@@ -25,31 +25,31 @@
             <img src="/assets/gallery/1.png" alt="">
           </div>
           <div class="swiper-slide">
-            <div class="my-slider-box-1__prod-name">욕심쟁이 동글이공</div>
+            <div class="my-slider-box-1__prod-name">1</div>
             <img src="/assets/gallery/2.png" alt="">
           </div>
           <div class="swiper-slide">
-            <div class="my-slider-box-1__prod-name">욕심쟁이 동글이공</div>
+            <div class="my-slider-box-1__prod-name">2</div>
             <img src="/assets/gallery/3.png" alt="">
           </div>
           <div class="swiper-slide">
-            <div class="my-slider-box-1__prod-name">욕심쟁이 동글이공</div>
+            <div class="my-slider-box-1__prod-name">3</div>
             <img src="/assets/gallery/4.png" alt="">
           </div>
           <div class="swiper-slide">
-            <div class="my-slider-box-1__prod-name">욕심쟁이 동글이공</div>
+            <div class="my-slider-box-1__prod-name">4</div>
             <img src="/assets/gallery/5.png" alt="">
           </div>
           <div class="swiper-slide">
-            <div class="my-slider-box-1__prod-name">욕심쟁이 동글이공</div>
+            <div class="my-slider-box-1__prod-name">5</div>
             <img src="/assets/gallery/6.png" alt="">
           </div>
           <div class="swiper-slide">
-            <div class="my-slider-box-1__prod-name">욕심쟁이 동글이공</div>
+            <div class="my-slider-box-1__prod-name">6</div>
             <img src="/assets/gallery/7.png" alt="">
           </div>
           <div class="swiper-slide">
-            <div class="my-slider-box-1__prod-name">욕심쟁이 동글이공</div>
+            <div class="my-slider-box-1__prod-name">7</div>
             <img src="/assets/gallery/8.png" alt="">
           </div>
         </div>
