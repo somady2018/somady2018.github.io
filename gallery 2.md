@@ -21,36 +21,36 @@
       <div class="swiper-container">
         <div class="swiper-wrapper">
           <div class="swiper-slide">
-            <div class="my-slider-box-1__prod-name">상품명 1</div>
-            <img src="/assets/gallery/1.jpg" alt="">
+            <div class="my-slider-box-1__prod-name">욕심쟁이 동글이공</div>
+            <img src="/assets/gallery/1.png" alt="">
           </div>
           <div class="swiper-slide">
-            <div class="my-slider-box-1__prod-name">상품명 2</div>
-            <img src="/assets/gallery/2.jpg" alt="">
+            <div class="my-slider-box-1__prod-name">욕심쟁이 동글이공</div>
+            <img src="/assets/gallery/2.png" alt="">
           </div>
           <div class="swiper-slide">
-            <div class="my-slider-box-1__prod-name">상품명 3</div>
-            <img src="/assets/gallery/3.jpg" alt="">
+            <div class="my-slider-box-1__prod-name">욕심쟁이 동글이공</div>
+            <img src="/assets/gallery/3.png" alt="">
           </div>
           <div class="swiper-slide">
-            <div class="my-slider-box-1__prod-name">상품명 4</div>
-            <img src="/assets/gallery/4.jpg" alt="">
+            <div class="my-slider-box-1__prod-name">욕심쟁이 동글이공</div>
+            <img src="/assets/gallery/4.png" alt="">
           </div>
           <div class="swiper-slide">
-            <div class="my-slider-box-1__prod-name">상품명 5</div>
-            <img src="/assets/gallery/5.jpg" alt="">
+            <div class="my-slider-box-1__prod-name">욕심쟁이 동글이공</div>
+            <img src="/assets/gallery/5.png" alt="">
           </div>
           <div class="swiper-slide">
-            <div class="my-slider-box-1__prod-name">상품명6</div>
-            <img src="/assets/gallery/6.jpg" alt="">
+            <div class="my-slider-box-1__prod-name">욕심쟁이 동글이공</div>
+            <img src="/assets/gallery/6.png" alt="">
           </div>
           <div class="swiper-slide">
-            <div class="my-slider-box-1__prod-name">상품명 7</div>
-            <img src="/assets/gallery/7.jpg" alt="">
+            <div class="my-slider-box-1__prod-name">욕심쟁이 동글이공</div>
+            <img src="/assets/gallery/7.png" alt="">
           </div>
           <div class="swiper-slide">
-            <div class="my-slider-box-1__prod-name">상품명 8</div>
-            <img src="/assets/gallery/8.jpg" alt="">
+            <div class="my-slider-box-1__prod-name">욕심쟁이 동글이공</div>
+            <img src="/assets/gallery/8.png" alt="">
           </div>
         </div>
       </div>
