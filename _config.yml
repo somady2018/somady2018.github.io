@@ -25,9 +25,11 @@ author: mjlee
 
 navbar-links:
   About Me: "aboutme"
-  Gallery: 
+  Picture book: 
     - Gallery: "gallery"
-    - Gallery_2 : "욕심쟁이 동글이공"
+    - Greedy round ball : "gallery_2"
+    - meat country : "gallery_meat"
+
   MEDIA:
     - YOUTUBE: "https://www.youtube.com/channel/UCwR-Nsx4t80YRt_W9ivmrtA"
     - INSTA : "https://www.instagram.com/_mj.lee/"
