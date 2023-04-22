@@ -26,7 +26,7 @@
           </div>
           <div class="swiper-slide">
             <div class="my-slider-box-1__prod-name">1</div>
-            <img src="/assets/gallery/meat2.png" alt="">
+            <img src="/assets/gallery/meat2.jpg" alt="">
           </div>
           <div class="swiper-slide">
             <div class="my-slider-box-1__prod-name">2</div>
@@ -42,7 +42,7 @@
           </div>
           <div class="swiper-slide">
             <div class="my-slider-box-1__prod-name">5</div>
-            <img src="/assets/gallery/meat6.png" alt="">
+            <img src="/assets/gallery/meat6.jpg" alt="">
           </div>
           <div class="swiper-slide">
             <div class="my-slider-box-1__prod-name">6</div>
@@ -54,7 +54,7 @@
           </div>
           <div class="swiper-slide">
             <div class="my-slider-box-1__prod-name">8</div>
-            <img src="/assets/gallery/meat9.png" alt="">
+            <img src="/assets/gallery/meat9.jpg" alt="">
           </div>
         </div>
       </div>
