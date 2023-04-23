@@ -17,7 +17,5 @@ tag: 육아, 워킹맘, 코딩공부, 그림책, 유튜브
 #블로그 / 이 참에 공부한 TIL 과 결과들, 그리고 제 최대관심사인 아들녀석에 대한 기록을 해볼까 합니다. <br>
 
 <br>
-<br>
-
-![갤러리1](\assets\gallery\aboutme.jpg)  <br>
+<img src="assets\gallery\aboutme.jpg" alt="">
 </html>
