@@ -12,7 +12,7 @@ html {
 
 body {
   font-family: 'Nanum Gothic','Lora', 'Times New Roman', serif;
-  font-size: 1.0rem;
+  font-size: 0.8rem;
   color: {{ site.text-col | default: "#404040" }};
   position: relative;
   background-color: {{ site.page-col | default: "#FFFFFF" }};
@@ -41,7 +41,7 @@ h3 {
   font-size: 1.2rem;
 }
 h4 {
-  font-size: 1.0rem;
+  font-size: 0.8rem;
 }
 h1, h2, h3, h4 {
   margin-top: 1.0rem;
