@@ -30,11 +30,11 @@
           </div>
           <div class="swiper-slide">
             <div class="my-slider-box-1__prod-name">2</div>
-            <img src="/assets/gallery/meat3.PNG" alt="">
+            <img src="/assets/gallery/meat3.jpg" alt="">
           </div>
           <div class="swiper-slide">
             <div class="my-slider-box-1__prod-name">3</div>
-            <img src="/assets/gallery/meat4.png" alt="">
+            <img src="/assets/gallery/meat4.jpg" alt="">
           </div>
           <div class="swiper-slide">
             <div class="my-slider-box-1__prod-name">4</div>
@@ -46,11 +46,11 @@
           </div>
           <div class="swiper-slide">
             <div class="my-slider-box-1__prod-name">6</div>
-            <img src="/assets/gallery/meat7.png" alt="">
+            <img src="/assets/gallery/meat7.jpg" alt="">
           </div>
           <div class="swiper-slide">
             <div class="my-slider-box-1__prod-name">7</div>
-            <img src="/assets/gallery/meat8.png" alt="">
+            <img src="/assets/gallery/meat8.jpg" alt="">
           </div>
           <div class="swiper-slide">
             <div class="my-slider-box-1__prod-name">8</div>
