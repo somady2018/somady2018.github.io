@@ -2,7 +2,7 @@
 layout: post
 title:  "웹개발? Git블로그에 갤러리 만들기 - ChatGPT, Codepen 활용"
 tag: [Codepen, 슬라이드갤러리, SwiperSlide, ChatGPT]
-thumbnail-img: \assets\gallery\230414_screenshot_3.JPG
+thumbnail-img: /assets/gallery/230414_screenshot_3.JPG
 ---
 
 도영이를 키우며 느끼는 부러운 능력 중에 하나는 '순수한 상상력' 이다.   
