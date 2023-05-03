@@ -1,3 +1,9 @@
+---
+layout: page
+---
+
+도영이가 지어낸 첫번째 이야기, 욕심쟁이 동글이공 을 소개합니다.! 
+
 <!DOCTYPE html>
 <html lang="en">
   <head>
