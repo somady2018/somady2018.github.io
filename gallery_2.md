@@ -1,3 +1,10 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    …
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    …
+
 <!-- |이 코드는 Swiper 라이브러리를 사용하여 이미지 갤러리를 만드는 코드입니다.
 |
 |주석작성
@@ -19,7 +26,6 @@
 |나쁜 점은, 이 코드가 없으면 모바일 기기에서 웹 페이지가 제대로 보이지 않을 수 있습니다. 또한, viewport 설정을 잘못하면 웹 페이지가 모바일 기기에서 이상하게 보일 수 있으므로 주의가 필요합니다.
 | -->
 
-<meta name="viewport" content="width=device-width, initial-scale=1">
 
 
 <div class="section-1 con-min-width">
@@ -74,3 +80,4 @@
 </div>
 <link rel="stylesheet" href="/assets/css/slide gallery.css" />
 <script src="/assets/js/slide gallery.js"></script>
+</head>
