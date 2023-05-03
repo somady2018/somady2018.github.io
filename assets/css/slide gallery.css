@@ -50,6 +50,7 @@ a {
 
 /* 라이브러리 시작 */
 
+
 /* 뷰포트 설정 */
 meta {
   /* 뷰포트 너비를 디바이스 너비로 설정 */
@@ -61,6 +62,32 @@ meta {
   /* 사용자가 확대/축소할 수 없도록 설정 */
   user-scalable: no;
 }
+/* 뷰포트 너비가 500px 이하일 때 */
+@media screen and (max-width: 500px) {
+
+  /* body 요소의 너비를 100%로 설정 */
+  body {
+    width: 100%;
+  }
+
+  /* #container 요소의 너비를 100%로 설정 */
+  #container {
+    width: 100%;
+  }
+
+  /* #header 요소의 너비를 100%로 설정 */
+  #header {
+    width: 100%;
+  }
+
+  /* #footer 요소의 너비를 100%로 설정 */
+  #footer {
+    width: 100%;
+  }
+}
+
+
+
 
 
 
