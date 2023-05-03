@@ -51,17 +51,7 @@ a {
 /* 라이브러리 시작 */
 
 
-/* 뷰포트 설정 */
-meta {
-  /* 뷰포트 너비를 디바이스 너비로 설정 */
-  width: device-width;
-  /* 초기 화면 배율을 1로 설정 */
-  initial-scale: 1;
-  /* 최대 화면 배율을 1로 설정하여 콘텐츠가 디바이스 너비를 넘지 않도록 함 */
-  max-width: 1;
-  /* 사용자가 확대/축소할 수 없도록 설정 */
-  user-scalable: no;
-}
+
 /* 뷰포트 너비가 500px 이하일 때 */
 @media screen and (max-width: 500px) {
 
