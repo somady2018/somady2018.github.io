@@ -1,7 +1,8 @@
 ---
 layout: post
-title:  "갤러리 웹페이지 만들기 (1) ChatGPT, Codepen 활용"
-tags: [비개발자워킹맘의코딩공부, 웹갤러리, Codepen, VScodeHelper, ChatGPT]
+title:  "갤러리 웹페이지 만들기 (1)"
+subtitle: "Chat GPT, CodePen, VSCODE Helper 활용하기"
+tags: [비개발자워킹맘의코딩공부, 웹갤러리, 깃허브블로그, Codepen, VScodeHelper, ChatGPT]
 ---
 
 도영이를 키우며 느끼는 부러운 능력 중에 하나는 '순수한 상상력' 이다.   
