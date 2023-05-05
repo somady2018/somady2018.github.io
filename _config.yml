@@ -25,7 +25,7 @@ author: mjlee
 
 navbar-links:
   About Me: "aboutme"
-  Blog : "blog_tags"
+  Blog : "https://somady2018.github.io/tags/"
   Picture book: 
     - Greedy round ball : "gallery_2"
     - meat country : "gallery_meat"
@@ -113,7 +113,7 @@ feed_show_tags: true
 post_search: true
 
 # Add a button in the footer to edit the current page. Only works if your website is hosted on GitHub
-edit_page_button: false
+edit_page_button: true
 
 # Allow sub-menu items (second-level navigation menu items) to be longer than the top-level menu
 # If this setting is off, then long sub-menu words might get cut off
