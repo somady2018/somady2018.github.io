@@ -16,7 +16,7 @@ layout: page
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
  도영이가 지어낸 첫번째 이야기, 욕심쟁이 동글이공 을 소개합니다.! <br>
-
+  </head>
 
   <!-- 폰트어썸 불러오기 -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css">
@@ -76,5 +76,5 @@ layout: page
     </div>
     <link rel="stylesheet" href="/assets/css/slide gallery.css" />
     <script src="/assets/js/slide gallery.js"></script>
-  </head>
+
 </html>
