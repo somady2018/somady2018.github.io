@@ -57,17 +57,17 @@ a {
 
   /* body 요소의 너비를 100%로 설정 */
   body {
-    width: 100%;
+    width: 80%;
   }
 
   /* #container 요소의 너비를 100%로 설정 */
   #container {
-    width: 100%;
+    width: 80%;
   }
 
   /* #header 요소의 너비를 100%로 설정 */
   #header {
-    width: 100%;
+    width: 80%;
   }
 
   /* #footer 요소의 너비를 100%로 설정 */
