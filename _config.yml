@@ -25,6 +25,7 @@ author: mjlee
 
 navbar-links:
   About Me: "aboutme"
+  Blog : "blog_tags"
   Picture book: 
     - Greedy round ball : "gallery_2"
     - meat country : "gallery_meat"
