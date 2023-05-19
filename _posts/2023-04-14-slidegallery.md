@@ -18,7 +18,8 @@ tags: [코알못의코딩공부, 웹갤러리, 깃허브블로그, Codepen, VSco
 이것을 Folk 하여 내 코드팬으로 불러와 맘에 맞게 수정할 수도 있어서 정말 유용하다. <br>
 갤러리로 검색해본 화면! <br>
 ![갤러리 검색 캡쳐](\assets\img\230414_codepen_capture.JPG)
-<p>
+
+<br>
 [2. ChatGPT](https://chat.openai.com/)
 
 최근에 모두들의 화제인 ChatGPT 
