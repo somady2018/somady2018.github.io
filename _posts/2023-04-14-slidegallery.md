@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "갤러리 웹페이지 만들기 (1)"
-subtitle: "코알못이 활용하는 Best3 사이트!"
+title:  "갤러리 웹페이지 만들기 - 활용하기 좋은 Best3 사이트"
+subtitle: "Codepen과 VScode에서 사용하는 ChatGPT"
 tags: [코알못의코딩공부, 웹갤러리, 깃허브블로그, Codepen, VScodeHelper, ChatGPT]
 ---
 
