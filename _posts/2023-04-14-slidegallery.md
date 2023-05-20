@@ -11,7 +11,7 @@ tags: [코알못의코딩공부, 웹갤러리, 깃허브블로그, Codepen, VSco
 다른 사람들의 코드에서 내가 필요한 부분만 짜집기 정도로 만들어가면서 조금씩 코드를 익히고 배워가고 있다.  <br>
 이 과정에서 너무나 좋은 선생님들을 만났기에 소개해보는 나의 Best 3 선생님들!  <br>
 
-#####[1. 코드팬](https://codepen.io/trending){:target="_blank"}
+##### [1. 코드팬](https://codepen.io/trending){:target="_blank"}
 
 이 사이트에는 다른사람들이 짜둔 html, css, js 각각의 코드들과 이로인해 구현되는 웹페이지를 한 눈에 바로 볼 수있다. 
 검색을 통하여 제법 내 생각에 가깝게 만들어진 코드들을 찾아낼 수 있고 
@@ -20,7 +20,7 @@ tags: [코알못의코딩공부, 웹갤러리, 깃허브블로그, Codepen, VSco
 ![갤러리 검색 캡쳐](\assets\img\230414_codepen_capture.JPG)
 
 
-#####[2. ChatGPT](https://chat.openai.com/){:target="_blank"}
+##### [2. ChatGPT](https://chat.openai.com/){:target="_blank"}
 
 최근에 모두들의 화제인 ChatGPT 
 나 역시 관련 책도 사고 유튜브도 찾아보며 활용해보려고 노력 중인데 사실상 딱히 활용처가 없다고 느끼던 부분이었는데 이번 기회에 제대로 활용했다. <br>
@@ -29,7 +29,7 @@ tags: [코알못의코딩공부, 웹갤러리, 깃허브블로그, Codepen, VSco
 내가 챗 GPT의 프롬프트를 제대로 써본 경험이 부족해서인지 생각보다 맘에 드는 답변을 받아내는 것이 사실 쉽지 않다. <br>
 그러던 중 발견한 기능이 있으니 바로 !!!!!! 
 
-#####[3. AI Code Helper](https://aicodehelper.dev/){:target="_blank"}
+##### [3. AI Code Helper](https://aicodehelper.dev/){:target="_blank"}
 바로바로 Visual studio code 내에 있는 "AI Code Helper" 추가기능이다. 
 ![AI Codehelper](\assets\img\230414_AIcodehelper.JPG)
 
@@ -48,7 +48,7 @@ chatGPT 에서 발급된 API만 넣으면 ChatGPT 를 내 코드 속으로 직�
 참고:주석설명 캡쳐화면 - 초록색글씨들이 추가된부분입니다. 
 ![css 파일 캡쳐](\assets\img\230414_helper_capture_2.JPG)
 
-[관련 단축키]<br>
+#### [관련 단축키]<br>
 Ctrl+Alt+SHift+R : 리팩토링 (코드블럭 후)  
 Ctrl+Alt+Shift+Z : 주석설명 (코드블럭 후)  
 Ctrl+Alt+Shift+C : 코드리뷰 (코드블럭 후)  
@@ -56,16 +56,12 @@ Ctrl+Alt+Shift+G : 코드생성 (구현하고싶은것 프롬프트 작성한 �
 
 
 이렇게 위의 3개를 활영해서 얻은 정보들로 현재까지 구현해 본 갤러리는 총 두가지 방법이다. <br>
-내가 정리한 코드들까지 함께 링크에 넣어두었으니 필요하신 분은 자유롭게 가져가도 좋습니당 :) . <br>
+** 내가 정리한 코드들까지 함께 링크에 넣어두었으니 필요하신 분은 자유롭게 가져가도 좋습니당 :) <br>
 
-1번. 바둑판형식 갤러리 <br>
-여러 개가 동시에 보이고 원하는 사진을 클릭하면 더 크게 보인다. <br>
+1번. 바둑판형식 갤러리 : 여러 개가 동시에 보이고 원하는 사진을 클릭하면 더 크게 보인다. <br>
 [1번 기본갤러리뷰 소스코드](https://lmj8922.notion.site/30d67f0d1e124ced86bcfb97b65f4580){:target="_blank"}<br>
-1번 예시화면<br>
 ![갤러리1](\assets\img\230414_screenshot_3.JPG)  <br>
 
-2번. 슬라이드 형식 갤러리<br>
-연속된 그림을 넘겨볼 수 있게 화살표를 눌러 다음 그림으로 넘어가도록 하는 슬라이드갤러리의 방식이다. <br>
+2번. 슬라이드 형식 갤러리 : 연속된 그림을 넘겨볼 수 있게 화살표를 누르면 다음 그림으로 넘어감. <br>
 [2번 슬라이드갤러리뷰 소스코드](https://lmj8922.notion.site/d7de8e3f659c496bace07e08eeca64e3){:target="_blank"}<br>
-2번 예시화면<br>
 ![갤러리2](\assets\img\230414_screenshot_4.JPG) <br>
