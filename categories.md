@@ -1,7 +1,7 @@
 ---
-title: "코딩공부"
+title: "Posts by Category"
 layout: archive
-permalink: categories/cd
+permalink: categories
 author_profile: true
 sidebar_main: true
 ---
