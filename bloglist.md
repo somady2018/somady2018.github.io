@@ -1,3 +1,11 @@
+---
+layout: page
+---
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
 <ul class="posts-list list-unstyled" role="list">
   
     <li class="post-preview">
@@ -50,3 +58,5 @@
     </li>
     
   </ul>
+  </head>
+  </html>
