@@ -1,14 +1,15 @@
 ---
 layout: page
 ---
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css">
 
 <a href="https://somady2018.github.io/2023-04-30-google/">
 <i class="fa-solid fa-quote-left"></i>
   <h2 class="post-title">내 블로그를 구글검색창에 노출시키기!</h2>
 
-    <h4 class="post-subtitle">
+    <h3 class="post-subtitle">
     구글서치를 위한 Sitemap 색인생성방법!
-    </h4>
+    </h3>
 <br><br> 
 </a>
 
@@ -17,9 +18,9 @@ layout: page
   <h2 class="post-title">갤러리 웹페이지 만들기 (2)</h2>
 
   
-    <h4 class="post-subtitle">
+    <h3 class="post-subtitle">
     내 코드를 md파일로 변환, 하위네비게이션으로 추가하기
-    </h4>
+    </h3>
   
 </a>
 <br><br> 
