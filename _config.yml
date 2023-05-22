@@ -9,12 +9,6 @@
 paginate: 10 # set the number of posts to display per page
 paginate_path: "/blog/page:num/" # set the URL format for paginated pages
 
-
-category_archive:
-  type: liquid
-  path: /categories/
-
-  
 ############################
 # --- Required options --- #
 ############################
