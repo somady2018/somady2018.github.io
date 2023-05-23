@@ -32,7 +32,7 @@ navbar-links:
     - meat country : "gallery_meat"
     - Gallery: "gallery"
   YOUTUBE: "https://lmj8922.notion.site/lmj8922/c181cc1c3b7540688c117f065f493700"
-  Blog list : "categories"
+  
 
 ################
 # --- Logo --- #
@@ -294,14 +294,6 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-archives
-
-category_archive:
-  type: liquid
-  path: /categories/
-tag_archive:
-  type: liquid
-  path: /tags/
-# https://github.com/jekyll/jekyll-archives
 
 
 # Beautiful Jekyll / Dean Attali
